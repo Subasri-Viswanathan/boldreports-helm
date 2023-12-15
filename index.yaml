@@ -29,7 +29,7 @@ entries:
     urls:
     - https://github.com/Subasri-Viswanathan/boldreports-helm/blob/gh-pages/boldreports-5.4.tgz
     version: 5.4
-    - apiVersion: v2
+  - apiVersion: v2
     appVersion: 5.3.8
     created: "2023-12-16T17:26:20.3843848+05:30"
     description: Make bolder business decisions with complete reporting solutions
