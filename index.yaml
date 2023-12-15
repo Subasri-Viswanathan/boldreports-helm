@@ -29,4 +29,18 @@ entries:
     urls:
     - https://github.com/Subasri-Viswanathan/boldreports-helm/blob/gh-pages/boldreports-5.4.tgz
     version: 5.4
+    - apiVersion: v2
+    appVersion: 5.3.8
+    created: "2023-12-15T17:26:20.3843848+05:30"
+    description: Make bolder business decisions with complete reporting solutions
+      and unleash the power of your data with paginated, printable reports and make
+      intelligent decisions.
+    digest: 7B95E9C99D34A2CCF02547C3200B81AEA0465661841238E309549DCB23146A82
+    home: https://www.boldreports.com/
+    icon: https://on-premise-demo.boldreports.com/reporting/images/application/boldreports/main_logo.svg
+    name: boldreports
+    type: application
+    urls:
+    - https://github.com/Subasri-Viswanathan/boldreports-helm/blob/gh-pages/boldreports-5.5.tgz
+    version: 5.5
 generated: "2021-12-13T17:26:20.3833077+05:30"
