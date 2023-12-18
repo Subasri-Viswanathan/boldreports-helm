@@ -13,6 +13,6 @@ entries:
     name: boldreports
     type: application
     urls:
-    - https://subasri-viswanathan.github.io/boldreports-helm/boldreports-5.3.10.tgz
+    - https://boldreports.github.io/bold-reports-kubernetes/boldreports-5.3.10.tgz
     version: 5.3.10
 generated: "2021-12-13T17:26:20.3833077+05:30"
