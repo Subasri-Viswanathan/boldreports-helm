@@ -15,4 +15,19 @@ entries:
     urls:
     - https://boldreports.github.io/bold-reports-kubernetes/boldreports-5.3.10.tgz
     version: 5.3.10
+  boldreports:
+  - apiVersion: v2
+    appVersion: 5.4.20
+    created: "2024-01-02T17:26:20.3843848+05:30"
+    description: Make bolder business decisions with complete reporting solutions
+      and unleash the power of your data with paginated, printable reports and make
+      intelligent decisions.
+    digest: F06176FA9C35A366E962DF81993E33B6C101F27FC0E9860A010849824906EE07
+    home: https://www.boldreports.com/
+    icon: https://on-premise-demo.boldreports.com/reporting/images/application/boldreports/main_logo.svg
+    name: boldreports
+    type: application
+    urls:
+    - https://boldreports.github.io/bold-reports-kubernetes/boldreports-5.4.20.tgz
+    version: 5.4.20
 generated: "2021-12-13T17:26:20.3833077+05:30"
