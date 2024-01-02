@@ -15,7 +15,6 @@ entries:
     urls:
     - https://boldreports.github.io/bold-reports-kubernetes/boldreports-5.3.10.tgz
     version: 5.3.10
-  boldreports:
   - apiVersion: v2
     appVersion: 5.4.20
     created: "2024-01-02T17:26:20.3843848+05:30"
